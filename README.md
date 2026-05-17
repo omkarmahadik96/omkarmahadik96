@@ -94,8 +94,13 @@ I am a passionate **Cybersecurity Engineer (in progress) 🛡️** and **SecOps 
 ## 📈 Git Telemetry & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkarmahadik96&show_icons=true&theme=radical&bg_color=0f172a&title_color=00FF66&icon_color=00FF66&text_color=cbd5e1" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarmahadik96&layout=compact&theme=radical&bg_color=0f172a&title_color=00FF66&icon_color=00FF66&text_color=cbd5e1" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkarmahadik96&theme=radical" alt="GitHub Profile Summary" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=omkarmahadik96&theme=radical" alt="GitHub Streak Stats" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omkarmahadik96&theme=radical" alt="Most Committed Languages" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omkarmahadik96&theme=radical" alt="Repositories per Language" width="49%" />
 </p>
 
 ---
