@@ -2,24 +2,28 @@
   {
     "name": "PHANTOM-X",
     "repo": "omkarmahadik96/PHANTOM-X",
+    "logo": "phantom.png",
     "description": "Premium security intelligence platform with 72 audited tools, custom cyberpunk themes, real-time log highlighting, and docker-ready Kali support.",
     "tags": ["Shell", "Python", "Docker"]
   },
   {
     "name": "ThreatX",
     "repo": "omkarmahadik96/ThreatX",
+    "logo": "threatx.png",
     "description": "Enterprise-grade phishing & email intelligence system detecting multi-channel phishing attempts using AI/ML vector classifiers & real-time PhishTank API.",
     "tags": ["Python", "Flask", "Firebase", "Scikit-Learn"]
   },
   {
     "name": "ShadowScan-Pro",
     "repo": "omkarmahadik96/ShadowScan-Pro",
+    "logo": "shadowscan.png",
     "description": "Next-generation cyber surveillance & threat intelligence workbench featuring real-time OSINT monitoring and session isolation.",
     "tags": ["React", "TypeScript", "Prisma", "Express"]
   },
   {
     "name": "FortressPass",
     "repo": "omkarmahadik96/Password-Strenght-Analyzer",
+    "logo": "fortresspass.png",
     "description": "High-fidelity cybersecurity dashboard & password intelligence OS with Shannon Entropy, k-Anonymity breach checking, and brute-force simulator.",
     "tags": ["JavaScript", "HTML5", "CSS3", "WebAudio"]
   }

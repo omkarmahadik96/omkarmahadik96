@@ -215,7 +215,7 @@ def card(p, x, y, idx):
         ly = cy - 22
         for lang, frac, col in legend[:3]:
             a(f'<circle cx="{dot_x}" cy="{ly}" r="3.5" fill="{col}"/>')
-            a(f'<text x="{text_x}" y="{ly+4}" font-size="10" fill="{MUTED}">{esc(lang)} {frac*100:.0f}%</text>')
+            a(f'<text x="{text_x}" y="{ly+4}" font-size="10" fill="{MUTED}">{esc(lang)}</text>')
             ly += 18
     a('</g>')
     a('</a>')
