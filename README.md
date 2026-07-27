@@ -10,11 +10,11 @@
   <a href="https://www.linkedin.com/in/omkarmahadik/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/0mkar_96/">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/0mkya_96/">
     <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:mahadikomkar866@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
   </a>
@@ -23,47 +23,40 @@
 <br/>
 
 <div align="center">
-  <h2>🛡️ Featured Security Projects</h2>
+  <h2>Featured Security Projects</h2>
 </div>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚔️ <a href="https://github.com/omkarmahadik96/PHANTOM-X">PHANTOM-X</a></h3>
-      <p>Premium security intelligence platform with 72 audited tools, glassmorphic UI, Kali containerization.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kali_Linux-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔍 <a href="https://github.com/omkarmahadik96/ThreatX">ThreatX</a></h3>
-      <p>Enterprise-grade phishing detection system using AI/ML vector classifiers & real-time PhishTank API feed.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/ML-Scikit_Learn-orange?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/omkarmahadik96/ShadowScan-Pro">ShadowScan-Pro</a></h3>
-      <p>Cyber surveillance and threat intelligence workbench featuring OSINT monitoring & session isolation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔑 <a href="https://github.com/omkarmahadik96/Password-Strenght-Analyzer">FortressPass</a></h3>
-      <p>Password intelligence engine computing Shannon Entropy with k-Anonymity breach checking.</p>
-      <p>
-        <img src="https://img.shields.io/badge/WebCrypto-API-green?style=flat-square" />
-        <img src="https://img.shields.io/badge/Security-Audit-red?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
+---
+
+### ⚔️ **[PHANTOM-X](https://github.com/omkarmahadik96/PHANTOM-X)**
+> **Premium Security Intelligence Platform**
+> 
+> * **Features:** 72+ audited security tools, custom cyberpunk themes, real-time log highlighting, and docker-ready Kali support.
+> * **Tech Stack:** Shell Scripting, Python, Docker, Kali Linux
+> * **Status:** <img src="https://img.shields.io/badge/Status-Production--Ready-success?style=flat-square" alt="Status" />
+
+### 🔍 **[ThreatX](https://github.com/omkarmahadik96/ThreatX)**
+> **Enterprise-Grade Phishing & Email Intelligence System**
+> 
+> * **Features:** Multi-channel phishing detection (URLs, texts, Gmail) using AI/ML vector classifiers & real-time PhishTank API.
+> * **Tech Stack:** Python, Flask, Firebase, Scikit-Learn, Vercel
+> * **Status:** <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status" />
+
+### 🌐 **[ShadowScan-Pro](https://github.com/omkarmahadik96/ShadowScan-Pro)**
+> **Next-Gen Cyber Surveillance & Threat Intelligence Workbench**
+> 
+> * **Features:** Real-time OSINT monitoring, multi-tenant session isolation, and tactical alert telemetry.
+> * **Tech Stack:** React.js, TypeScript, Node.js, Express, Prisma ORM, TailwindCSS
+> * **Status:** <img src="https://img.shields.io/badge/Status-Stable-success?style=flat-square" alt="Status" />
+
+### 🔑 **[FortressPass](https://github.com/omkarmahadik96/Password-Strenght-Analyzer)**
+> **Password Intelligence OS & Strength Analyzer**
+> 
+> * **Features:** Shannon Entropy calculations, Web Crypto API hashing, k-Anonymity breach checker, and physics-based particle confetti.
+> * **Tech Stack:** JavaScript (ES6+), HTML5/CSS3, Web Audio API
+> * **Status:** <img src="https://img.shields.io/badge/Status-Verified-success?style=flat-square" alt="Status" />
+
+---
 
 <br/>
 
