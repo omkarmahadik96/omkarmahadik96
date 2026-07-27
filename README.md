@@ -1,8 +1,8 @@
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Omkar Mahadik" src="light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omkarmahadik96/omkarmahadik96/main/dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omkarmahadik96/omkarmahadik96/main/light.svg?v=2">
+  <img alt="Omkar Mahadik" src="https://raw.githubusercontent.com/omkarmahadik96/omkarmahadik96/main/light.svg?v=2">
 </picture>
 
 <!-- ===== GITHUB STATS ===== -->
