@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/omkarmahadik96/">
+  <a href="https://www.instagram.com/0mkar_96/">
     <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
@@ -23,11 +23,58 @@
 <br/>
 
 <div align="center">
+  <h2>🛡️ Featured Security Projects</h2>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚔️ <a href="https://github.com/omkarmahadik96/PHANTOM-X">PHANTOM-X</a></h3>
+      <p>Premium security intelligence platform with 72 audited tools, glassmorphic UI, Kali containerization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kali_Linux-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 <a href="https://github.com/omkarmahadik96/ThreatX">ThreatX</a></h3>
+      <p>Enterprise-grade phishing detection system using AI/ML vector classifiers & real-time PhishTank API feed.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/ML-Scikit_Learn-orange?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/omkarmahadik96/ShadowScan-Pro">ShadowScan-Pro</a></h3>
+      <p>Cyber surveillance and threat intelligence workbench featuring OSINT monitoring & session isolation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔑 <a href="https://github.com/omkarmahadik96/Password-Strenght-Analyzer">FortressPass</a></h3>
+      <p>Password intelligence engine computing Shannon Entropy with k-Anonymity breach checking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/WebCrypto-API-green?style=flat-square" />
+        <img src="https://img.shields.io/badge/Security-Audit-red?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
   <img width="100%" src="https://streak-stats.demolab.com/?user=omkarmahadik96&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
   <br/>
   <img width="49%" src="https://github-readme-stats-eight-rose-12.vercel.app/api?username=omkarmahadik96&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
   <img width="49%" src="https://github-readme-stats-eight-rose-12.vercel.app/api/top-langs/?username=omkarmahadik96&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
+
+<br/>
 
 <div align="center">
   <picture>
