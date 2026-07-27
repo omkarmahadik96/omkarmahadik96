@@ -1,7 +1,9 @@
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
 <div align="center">
-  <img src="dark.svg#gh-dark-mode-only" alt="Omkar Mahadik" width="100%" />
-  <img src="light.svg#gh-light-mode-only" alt="Omkar Mahadik" width="100%" />
+
+![Omkar Mahadik](dark.svg#gh-dark-mode-only)
+![Omkar Mahadik](light.svg#gh-light-mode-only)
+
 </div>
 
 <!-- ===== GITHUB STATS ===== -->
